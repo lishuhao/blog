@@ -3,7 +3,7 @@
 ### Golang
 - [Golang 笔记 ](https://github.com/lishuhao/blog/issues/4)
 - [Golang JSON 时间戳编解码](https://github.com/lishuhao/blog/issues/3)
-- [resp.Body.Close() TODO](https://github.com/lishuhao)
+- [【译】Go中有效的错误处理](https://github.com/lishuhao/blog/discussions/15)
 
 ### PHP
 - [PHP笔记](https://github.com/lishuhao/blog/issues/10)
